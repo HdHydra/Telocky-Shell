@@ -1,16 +1,9 @@
-# shell
+# TeLocKy Shell
 
-A new Flutter project.
+## Flutter Based Password Generator
 
-## Getting Started
+Built to understand basic concepts of SlideBar, SelectedText, and ClipBoardData from 'package:flutter/material.dart' and 'package:flutter/services.dart' respectively.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app could generate both one password at a time and multiple passwords at a time.
+User will see the best password based on his preference 'Best' and 'Fast'
+User can select any of the password generated from ListView and the pass word will be copied to their clipboard
